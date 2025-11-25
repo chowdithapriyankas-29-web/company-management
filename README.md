@@ -156,11 +156,14 @@ staff_management.exe
 
 <img width="326" height="308" alt="Screenshot 2025-11-25 124731" src="https://github.com/user-attachments/assets/aaf966ae-e922-4487-b27c-456885066c9e" />
 
+
 <img width="325" height="325" alt="Screenshot 2025-11-25 124807" src="https://github.com/user-attachments/assets/f7b19e39-7193-4cfa-9fad-56f179434cfb" />
 
 
 <img width="354" height="451" alt="Screenshot 2025-11-25 124826" src="https://github.com/user-attachments/assets/6a1e8087-478e-4fd3-a263-62cc1efc0bd6" />
 
+
 <img width="347" height="701" alt="Screenshot 2025-11-25 124845" src="https://github.com/user-attachments/assets/7e4e0c0b-aa0f-415c-b483-41660bc1ded5" />
+
 
 <img width="332" height="222" alt="Screenshot 2025-11-25 124853" src="https://github.com/user-attachments/assets/fc23913d-672e-47ac-b9bd-ab0c4c8d33b7" />
