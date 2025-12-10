@@ -1,5 +1,5 @@
 
-Staff Management System
+Company Staff Management System
 
 Abstract
 
